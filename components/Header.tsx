@@ -21,7 +21,7 @@ export default function Header({}: Props) {
         <Navbar />
       </div>
       <div className="flex-1 flex justify-end">
-        <button className="text-3xl relative">
+        <button className="text-3xl relative hover:scale-110">
           <FaShoppingCart />
           <span className="absolute top-[-8px] right-[-8px] text-base font-bold bg-white border border-red-500 rounded-full text-red-500 w-6 h-6 flex items-center justify-center">2</span>
         </button>
