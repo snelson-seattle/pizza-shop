@@ -6,6 +6,9 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",    "./pages/**/*.{js, jsx, ts, tsx}",
   ],
   theme: {
+    fontFamily: {
+      'logo': 'Pacifico, cursive',
+    },
     extend: {},
   },
   plugins: [],
