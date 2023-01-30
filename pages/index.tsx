@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>The Web&apos;s Best Pizza</title>
+        <title>The Web&apos;s Best Pizza 🍕</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="description" content="Best pizza online" />
       </Head>
